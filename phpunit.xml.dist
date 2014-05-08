@@ -12,7 +12,7 @@
          bootstrap="vendor/autoload.php"
 >
     <testsuites>
-        <testsuite name="Request Test Suite">
+        <testsuite name="PDO Test Suite">
             <directory>./src/Tests/</directory>
         </testsuite>
     </testsuites>
