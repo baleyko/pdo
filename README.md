@@ -1,0 +1,2 @@
+[![Build Status](https://api.travis-ci.org/baleyko/pdo.png?branch=develop)](http://travis-ci.org/baleyko/pdo)
+[![Coverage Status](https://coveralls.io/repos/baleyko/pdo/badge.png?branch=develop)](https://coveralls.io/r/baleyko/pdo)
